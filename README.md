@@ -3,8 +3,8 @@
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>
 <body>
     
-<h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a)!</h1>
-<h3 align="center">Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
+<h1 align="center">👋 Olá, sou o Fernando Fonseca! Seja bem-vindo(a) ao meu perfil!</h1>
+<h3 align="center">Estou cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
   • 🤓 Possuo sólidos conhecimentos de Python, OOP (programação orientada a objetos) e Estatística Aplicada.<br>
   • 🔭 No momento, estou estudando Docker, Flask, MySQL, MongoDB e Linux.<br>
