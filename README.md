@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Fernando! Welcome to my GitHub profile!</h1>
-<h3 align="center">I am attending the 5th semester of my graduation in <b>Data Science</b> at UNESA</h3>
+<h3 align="center">I'm a Brazilian Data Science enthusiast attending the 5th semester of my graduation in <b>Data Science</b> at UNESA</h3>
 
 <br>
 
