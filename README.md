@@ -1,9 +1,10 @@
 <h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a) ao meu perfil!</h1>
-<h3 align="center">Estou cursando o 5º semestre de Ciência de Dados na UNESA</h3>
+<h3 align="center">Estou cursando o 5º semestre de graduação em Ciência de Dados na UNESA</h3>
 
 <br>
 
-  • 🤓 Possuo sólidos conhecimentos em <b>Python</b> e <b>Estatística Aplicada</b>.<br>
+  • 🤓 Possuo sólidos conhecimentos em <b>Python</b> e em várias de suas bibliotecas, como: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>scikit-learn</b> e <b>Seaborn</b>
+  • 📊 Nível intermediário de <b>Estatística</b>, <b>Análise de Dados</b> e aplicação de modelos de <b>Machine Learning<b>.
   • 🔭 No momento, estou me aprofundando em <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> e <b>Linux</b>.<br>
   • 📝 Tenho conhecimentos básicos de <b>HTML5</b> e <b>CSS3</b>.<br>
   • 👨‍💻 Estou seguindo o <i>#100DaysOfCode</i>, então você pode checar minha evolução em desafios de Python aqui:
