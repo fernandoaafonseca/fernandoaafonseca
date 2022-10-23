@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a)!</h1>
+<h3 align="center">  Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
 
-  • Cursando o 5º semestre de Ciência de Dados na UNESA.<br>
   • No momento, focado em Python, Git, MySQL e MongoDB;<br>
   • Estou seguindo o #100DaysOfCode, então você pode checar minha evolução em desafios de Python aqui:<br>
     https://github.com/fernandoaafonseca/100-days-of-code
 
 
-<h3 align="center">  • Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
+
 
 <p align="left"> <a href="https://twitter.com/fernando_aaf" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_aaf?logo=twitter&style=for-the-badge" alt="fernando_aaf" /></a> </p>
 
