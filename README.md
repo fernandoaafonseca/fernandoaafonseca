@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>
-<body>
-    
 <h1 align="center">👋 Olá, sou o Fernando Fonseca! Seja bem-vindo(a) ao meu perfil!</h1>
 <h3 align="center">Estou cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
@@ -58,5 +53,3 @@
 
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="fernandoaafonseca" /></p>
-</body>
-</html>
