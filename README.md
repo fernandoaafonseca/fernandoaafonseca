@@ -1,5 +1,6 @@
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></header>
 <body>
+    <i class="devicon-git-plain"></i>
 <h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a)!</h1>
 <h3 align="center">Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
@@ -26,7 +27,7 @@
 <p align="left"> 
  
   <h4>• Ferramentas:</h4>
-  <i class="devicon-git-plain"></i>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo-svg.png" alt="vscode" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <br>
