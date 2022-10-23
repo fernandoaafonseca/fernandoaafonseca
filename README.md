@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="left">💬 Conecte-se comigo:</h3>
+<h2 align="left">💬 Conecte-se comigo:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="70" width="70" /></a>
   <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="70" width="70" /></a>
@@ -19,7 +19,7 @@
 
 <br><br>
 
-<h3 align="left">💻 Linguagens e ferramentas:</h3>
+<h2 align="left">💻 Linguagens e ferramentas:</h2>
 <p align="left"> 
  
   <h4>• Ferramentas:</h4>
