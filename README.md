@@ -1,10 +1,10 @@
 <h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a) ao meu perfil!</h1>
 <h3 align="center">Estou cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
-  • 🤓 Possuo sólidos conhecimentos de Python, OOP (programação orientada a objetos) e Estatística Aplicada.<br>
-  • 🔭 No momento, estou estudando Docker, Flask, MySQL, MongoDB e Linux.<br>
-  • 📝 Tenho conhecimentos básicos de HTML5 e CSS3.<br>
-  • 👨‍💻 Estou seguindo o #100DaysOfCode, então você pode checar minha evolução em desafios de Python aqui:
+  • 🤓 Possuo sólidos conhecimentos de <b>Python</b>, <b>OOP (programação orientada a objetos)</b> e <b>Estatística Aplicada</b>.<br>
+  • 🔭 No momento, estou me aprofundando em <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> e <b>Linux</b>.<br>
+  • 📝 Tenho conhecimentos básicos de <b>HTML5</b> e <b>CSS3</b>.<br>
+  • 👨‍💻 Estou seguindo o <i>#100DaysOfCode</i>, então você pode checar minha evolução em desafios de Python aqui:
     https://github.com/fernandoaafonseca/100-days-of-code
 
 <br>
