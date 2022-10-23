@@ -9,9 +9,11 @@
 
 <h3 align="left">📫 Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernando_aaf" height="30" width="40" /></a>
-<a href="https://instagram.com/fernandoaafonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoaafonseca" height="30" width="40" /></a>
-<a href="http://discordapp.com/users/400446732401508382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="400446732401508382" height="30" width="40" /></a>
+  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="fernandoaafonseca" height="30" width="40" /></a>
+  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernando_aaf" height="30" width="40" /></a>
+  <a href="https://t.me/fernandoaafonseca" target="blank"<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png alt=Telegram height="30" width="40" /></a>
+  <a href="https://instagram.com/fernandoaafonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoaafonseca" height="30" width="40" /></a>
+  <a href="http://discordapp.com/users/400446732401508382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="400446732401508382" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">👨‍💻 Linguagens e ferramentas:</h3>
