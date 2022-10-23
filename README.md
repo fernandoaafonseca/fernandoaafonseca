@@ -6,7 +6,7 @@
   • 🤓 I have solid knowledge of <b>Python</b> and several of its libraries, such as: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>Scikit-learn</b> and <b>Seaborn</b>.<br>
   • 📊 Intermediate level of <b>Statistics</b>, <b>Data Analysis</b> and deployment of <b>Machine Learning</b> models.<br>
   • 📝 Basic knowledge of <b>HTML5</b> and <b>CSS3</b>.<br>
-  • 🔭 I'm currently deepening my knowldge of <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> and <b>Linux</b>.<br>
+  • 🔭 I'm currently deepening my knowledge of <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> and <b>Linux</b>.<br>
   • 👨‍💻 I'm following the <i>#100DaysOfCode</i>, so you can check my evolution in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
 
