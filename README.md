@@ -2,16 +2,11 @@
 <h3 align="center">  Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
 
-  • No momento, focado em Python, Git, MySQL e MongoDB;<br>
-  • Estou seguindo o #100DaysOfCode, então você pode checar minha evolução em desafios de Python aqui:<br>
+  • 👨‍💻 No momento, estou seguindo o #100DaysOfCode, então você pode checar minha evolução em desafios de Python aqui:
     https://github.com/fernandoaafonseca/100-days-of-code
 
 
-
-
-<p align="left"> <a href="https://twitter.com/fernando_aaf" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_aaf?logo=twitter&style=for-the-badge" alt="fernando_aaf" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernando_aaf" height="30" width="40" /></a>
 <a href="https://instagram.com/fernandoaafonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoaafonseca" height="30" width="40" /></a>
