@@ -3,7 +3,7 @@
 
 <br>
 
-  • 🤓 Possuo sólidos conhecimentos de <b>Python</b>, <b>OOP (programação orientada a objetos)</b> e <b>Estatística Aplicada</b>.<br>
+  • 🤓 Possuo sólidos conhecimentos em <b>Python</b> e <b>Estatística Aplicada</b>.<br>
   • 🔭 No momento, estou me aprofundando em <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> e <b>Linux</b>.<br>
   • 📝 Tenho conhecimentos básicos de <b>HTML5</b> e <b>CSS3</b>.<br>
   • 👨‍💻 Estou seguindo o <i>#100DaysOfCode</i>, então você pode checar minha evolução em desafios de Python aqui:
