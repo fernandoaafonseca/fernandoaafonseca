@@ -1,15 +1,16 @@
 <h1 align="center">👋 Olá, sou o Fernando! Seja bem-vindo(a)!</h1>
 <h3 align="center">  Cursando o 5º semestre de Ciência de Dados na UNESA</h3>
 
-  •  Possuo sólidos conhecimentos de Python, OOP e Estatística Aplicada.
-  •  
+  •  Possuo sólidos conhecimentos de Python, OOP e Estatística Aplicada.<br>
+  •  <br>
   •  No momento, estou seguindo o #100DaysOfCode, então você pode checar minha evolução em desafios de Python aqui:
     https://github.com/fernandoaafonseca/100-days-of-code
 
 
 <h3 align="left">📫 Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="fernandoaafonseca" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="fernandoaafonseca" height="30" width="40" /></a>
+
   <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernando_aaf" height="30" width="40" /></a>
   <a href="https://t.me/fernandoaafonseca" target="blank"<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png alt=Telegram height="30" width="40" /></a>
   <a href="https://instagram.com/fernandoaafonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoaafonseca" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/640px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/> </a></p>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/640px-Linux_logo.jpg" alt="linux" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="fernandoaafonseca" /></p>
