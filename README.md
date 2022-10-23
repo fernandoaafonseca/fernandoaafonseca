@@ -30,7 +30,7 @@
   <br>
   <h4>• Languages:</h4>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="70" height="70"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="70" height="70"/> </a>
    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="70" height="70"/> </a>
   <br>
   <h4>• Libraries:</h4>
