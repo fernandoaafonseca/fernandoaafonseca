@@ -12,7 +12,7 @@
 <h3 align="left">📧 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" /></a>
   <a href="https://t.me/fernandoaafonseca" target="blank"<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt=Telegram height="30" width="40" /></a>
    <a href="http://discordapp.com/users/400446732401508382" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="telegram" height="30" width="40" /></a>
   <a href="https://instagram.com/fernandoaafonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandoaafonseca" height="30" width="40" /></a>
