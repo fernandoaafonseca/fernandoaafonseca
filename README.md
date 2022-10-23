@@ -54,6 +54,6 @@
 
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="fernandoaafonseca" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoaafonseca&theme=vue" alt="fernandoaafonseca" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoaafonseca&theme=dark" alt="fernandoaafonseca" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoaafonseca&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="fernandoaafonseca" /></p>
