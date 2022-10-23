@@ -3,8 +3,8 @@
 
 <br>
 
-  • 🤓 Possuo sólidos conhecimentos em <b>Python</b> e em várias de suas bibliotecas, como: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>scikit-learn</b> e <b>Seaborn</b>.<br>
-  • 📊 Nível intermediário de <b>Estatística</b>, <b>Análise de Dados</b> e aplicação de modelos de <b>Machine Learning<b>.<br>
+  • 🤓 Possuo sólidos conhecimentos em <b>Python</b> e em várias de suas bibliotecas, como: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>Scikit-learn</b> e <b>Seaborn</b>.<br>
+  • 📊 Nível intermediário de <b>Estatística</b>, <b>Análise de Dados</b> e aplicação de modelos de <b>Machine Learning</b>.<br>
   • 🔭 No momento, estou me aprofundando em <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> e <b>Linux</b>.<br>
   • 📝 Tenho conhecimentos básicos de <b>HTML5</b> e <b>CSS3</b>.<br>
   • 👨‍💻 Estou seguindo o <i>#100DaysOfCode</i>, então você pode checar minha evolução em desafios de Python aqui:
