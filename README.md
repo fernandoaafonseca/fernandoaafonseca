@@ -34,7 +34,7 @@
    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
   <br>
   <h4>• Bibliotecas:</h4>
-   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="Matplotlib" width="40" height="40"/> </a>
+   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png" alt="Matplotlib" width="40" height="40"/> </a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
