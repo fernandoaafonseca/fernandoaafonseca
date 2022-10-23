@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="left">✉ Conecte-se comigo:</h3>
+<h3 align="left">💬 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
