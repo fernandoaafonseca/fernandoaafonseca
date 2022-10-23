@@ -7,7 +7,7 @@
   • 📊 Intermediate level of <b>Statistics</b>, <b>Data Analysis</b> and deployment of <b>Machine Learning</b> models.<br>
   • 📝 Basic knowledge of <b>HTML5</b> and <b>CSS3</b>.<br>
   • 🔭 I'm currently deepening my knowledge of <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> and <b>Linux</b>.<br>
-  • 👨‍💻 I'm following the <i>#100DaysOfCode</i>, so you can check my evolution in Python challenges here:
+  • 👨‍💻 I'm also following the <i>#100DaysOfCode</i> challenge, so you can check my evolution in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
 
 <br>
