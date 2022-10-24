@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey, I'm Fernando! Welcome to my GitHub profile!</h1>
-<h3 align="center">I'm a Brazilian Data Science enthusiast attending the 5th semester of my graduation in <b>Data Science</b> at UNESA</h3>
+<h3 align="center">I'm attending the 5th semester of my graduation in <b>Data Science</b> at UNESA</h3>
 
 <br>
 
-  • 👉🏻 I have a solid knowledge of <b>Python</b> and several of its libraries, such as: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>Scikit-learn</b> and <b>Seaborn</b>.<br>
-  • 📊 Intermediate level of <b>Statistics</b>, <b>Data Analysis</b> and deployment of <b>Machine Learning</b> models.<br>
+  • 👉🏻 Focus on <b>Python</b> and several of its libraries, such as: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>Scikit-learn</b> and <b>Seaborn</b>.<br>
+  • 📊 <b>Statistics</b>, <b>Data Analysis</b> and deployment of <b>Machine Learning</b> models.<br>
   • 📝 Basic knowledge of <b>HTML5</b> and <b>CSS3</b>.<br>
-  • 🔭 I'm currently deepening my knowledge of <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> and <b>Linux</b>.<br>
+  • 🔭 I'm currently studying <b>Docker</b>, <b>Flask</b>, <b>MySQL</b>, <b>MongoDB</b> and <b>Linux</b>.<br>
   • 👨‍💻 I'm also following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
 
