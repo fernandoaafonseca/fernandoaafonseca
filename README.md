@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Fernando! Welcome to my GitHub profile!</h1>
-<h3 align="center">I'm a 🇧🇷 Brazilian Python aspiring developer.</h3>
+<h3 align="center">I'm a 🇧🇷 Brazilian Python aspiring developer.</h3>:brazil:
 
 <br>
 
