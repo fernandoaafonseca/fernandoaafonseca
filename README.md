@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hey, I'm Fernando! Welcome to my GitHub profile!</h1>
-<h3 align="center">I'm studying <b>Data Science</b> at UNESA.</h3>
+<h3 align="center">I'm a Brazilian Python 🐍 aspiring developer.</h3>
 
 <br>
 
-  • 👉🏻 Focus on <b>Python</b> and several of its libraries, such as: <b>Matplotlib</b>, <b>NumPy</b>, <b>Pandas</b>, <b>Scikit-learn</b> and <b>Seaborn</b>.<br>
-  • 📊 <b>Statistics</b>, <b>Data Analysis</b> and deployment of <b>Machine Learning</b> models.<br>
+  • 👉🏻 Focusing on <b>Python</b> 🐍.<br>
+  • 📊 Intermediate knowledge of <b>Statistics</b>, <b>Data Analysis</b> and <b>Machine Learning</b> models using the <b>scikit-learn
+</b> library.<br>
   • 📝 Basic knowledge of <b>HTML5</b> and <b>CSS3</b>.<br>
-  • 🔭 I'm currently studying <b>Docker</b>, <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.<br>
+  • 🔭 Currently studying <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.<br>
   • 👨‍💻 I'm also following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
 
@@ -40,16 +41,14 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70" height="70"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="70" height="70"/> </a>
   <br>
-  <h4>• Deployment tools:</h4>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"/> </a>
-  <br>
-  <h4>• DBMS's (Data Base Management Systems):</h4>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/> </a>
-  <br>
   <h4>• Operating systems:</h4>
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="70" height="70"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> </a></p>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> </a>
+  <br>
+  <h4>• Others:</h4>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"/> </a>
+  <br>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/> </a></p>
 
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&show_icons=true&theme=github_dark" alt="fernandoaafonseca" /></p>
