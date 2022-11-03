@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fernando! Welcome!</h1>
+<h1 align="center">👋 Hi, I'm Fernando! Welcome! 🤗</h1>
 <h3 align="center">I'm a Python developer living in Brazil.</h3>
 
 <hr>
