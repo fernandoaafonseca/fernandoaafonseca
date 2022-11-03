@@ -2,8 +2,6 @@
 <h3 align="center">I'm a Python developer living in Brazil.</h3>
 
 <hr>
-<br>
-
   • 👉🏻 Focusing on <b>Python</b> 🐍.<br>
   • 📊 Intermediate knowledge of <b>Statistics</b>, <b>Data Analysis</b> and <b>Machine Learning</b> models using the <b>scikit-learn
 </b> library.<br>
@@ -20,7 +18,6 @@
   <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="70" width="70" /></a>
   <a href="https://t.me/fernandoaafonseca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="Telegram" height="70" width="70" /></a>
 <hr>
-<br>
 
 <h2 align="left">💻 Technologies:</h2>
 <p align="left"> 
