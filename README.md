@@ -10,7 +10,7 @@
   • 🔭 Currently studying <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.<br>
   • 👨‍💻 I'm also following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
-
+<hr>
 <br>
 
 <h2 align="left">💬 Contact me:</h2>
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="70" width="70" /></a>
   <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="70" width="70" /></a>
   <a href="https://t.me/fernandoaafonseca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="Telegram" height="70" width="70" /></a>
-
+<hr>
 <br><br>
 
 <h2 align="left">💻 Technologies:</h2>
@@ -36,7 +36,7 @@
 <hr>
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="70" height="70"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="70" height="70"/> </a>
- 
+<hr>
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&show_icons=true&theme=github_dark" alt="fernandoaafonseca" /></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoaafonseca&theme=github_dark" alt="fernandoaafonseca" /></p>
