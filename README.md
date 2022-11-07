@@ -31,7 +31,6 @@
 <h2 align="left">💬 Contact me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
-  <a href="https://twitter.com/fernando_aaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="50" width="50" /></a>
   <a href="https://t.me/fernandoaafonseca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="Telegram" height="50" width="50" /></a>
 <hr>
 
