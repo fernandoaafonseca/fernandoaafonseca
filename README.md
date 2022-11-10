@@ -1,39 +1,81 @@
 <h1 align="center">👋 Welcome!</h1>
-<h3 align="center">I'm a Python developer living in Brazil.</h3>
+<h3 align="center">I'm <i>Fernando</i>, a Python developer living in Brazil.</h3>
 
 <hr>
-  • 👉🏻 Focusing on <b>Python</b> 🐍.<br>
-  • 🤖 Intermediate knowledge of <b>Statistics</b>, <b>Data Analysis</b> and <b>Machine Learning</b> models using the <b>scikit-learn
-</b> library.<br>
-  • 📝 Basic knowledge of <b>HTML5</b> and <b>CSS3</b>.<br>
-  • 🔭 Currently studying <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.<br>
-  • 👨‍💻 I'm also following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
+  • 👉🏻 I'm currently focusing on getting better and better at <b>Python</b> 🐍.
+  <br>
+  • 📊 I have intermediate knowledge of <b>Applied Statistics</b>, <b>Data Analysis</b> and <b>Data Visualization</b> using the <i>Matplotlib</i>, <i>NumPy</i>, <i>Pandas</i> and <i>Seaborn</i> libraries.
+  <br>
+  • 🤖 I have some experience in applying <b>Machine Learning</b> models using the <i>scikit-learn</i> library.
+  <br>
+  • 📝 I have basic knowledge of <b>HTML5</b> and <b>CSS3</b>.
+  <br>
+  • 🔭 Now I'm also studying <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.
+  <br>
+  • 👨‍💻 I'm following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
 <br>
 <hr>
 
-<h2 align="left">💻 Technologies:</h2>
-<p align="left"> 
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50"/> </a>
-<hr>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a>
-<hr>
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>
-<hr>
+<h2 align="left">💻 Technologies:</h2>
+<p align="left">
+  <h2>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
+  </p></h2>
+
+<p align="left">
+  <h2>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a>
+  </p></h2>
+  
+<p align="left">
+  <h2>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a>    
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
+  </p></h2>
+
+<p align="left">
+  <h2>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </a>
+  <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
+  </p></h2>
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
+  </p>
+  <hr>
+
 
 <h2 align="left">💬 Contact me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
-  <a href="https://t.me/fernandoaafonseca" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" alt="Telegram" height="50" width="50" /></a>
-<hr>
+  <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+  <a href="https://t.me/fernandoaafonseca" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
+  <hr>
+  </p>
+
+
+<h2 align="left">👥 Social networks:</h2>
+<p align="left">
+  <a href="https://discord.com/users/400446732401508382" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=whit" alt="Discord" /> </a>
+  <a href="https://www.reddit.com/user/cosmofigaro" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /> </a>
+  <a href="https://steamcommunity.com/id/cosmofigaro/" target="_blank"> <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /> </a>
+  <a href="https://twitter.com/fernando_aaf" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /> </a>
+  <hr>
+  </p>
+
 
 <h2 align="left">📊 My GitHub stats:</h2>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandoaafonseca&theme=dracula" alt="fernandoaafonseca" /></p>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandoaafonseca&theme=dracula" alt="fernandoaafonseca" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandoaafonseca&theme=dracula" alt="fernandoaafonseca" />
+  </p>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&theme=dracula" alt="fernandoaafonseca" />
+  </p>
