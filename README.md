@@ -1,6 +1,7 @@
 <h1 align="center">👋 Welcome!</h1>
-<h3 align="center">I'm <i>Fernando</i>, a Python developer living in Brazil.</h3>
+<h3 align="center">I'm <i>Fernando</i>, a Python developer living in <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="20" height="20" alt="Brazil" /> Brazil.</h3>
 
+  
 <hr>
   • 👉🏻 I'm currently focusing on getting better and better at <b>Python</b> 🐍.
   <br>
