@@ -11,7 +11,7 @@
   <br>
   • 📝 I have basic knowledge of <b>HTML5</b> and <b>CSS3</b>.
   <br>
-  • 🔭 Now I'm also studying <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.
+  • 🔭 Now I'm also studying <b>Django</b>, <b>Flask</b>, <b>MySQL</b> and <b>Linux</b>.
   <br>
   • 👨‍💻 I'm following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
