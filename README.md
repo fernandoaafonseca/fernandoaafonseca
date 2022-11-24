@@ -11,7 +11,7 @@
   • 👨‍💻 I'm following the <i>#100DaysOfCode</i>, so you can check my progress in Python challenges here:
     https://github.com/fernandoaafonseca/100-days-of-code
   <br>
-  • 🗣 I'm a native <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="15" height="15" alt="Brazil" /> Brazilian Portuguese speaker and an intermediate <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15" height="15" alt="United States" /> English speaker.</h2>
+  • 🗣 Currently studying <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English.</h2>
 <br>
 <hr>
 
