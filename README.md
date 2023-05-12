@@ -57,7 +57,7 @@
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
 
   <tr>
-    <th align="left" height="25" rowspan="2"> 💾 Others:
+    <th align="left" height="25" rowspan="2"> 🔨 Others:
     </th>
   </tr>
   <td>
@@ -91,6 +91,26 @@
     <a href="https://www.android.com/" target="_blank"> <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
   </td>
+</table>
+
+<hr>
+
+<h2 align="left">💾 Personal projects:</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2"> <a href="https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp"<b>WhatsApp automation</b> </td>
+      <td> <b>🤖 Technologies: </b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
+        <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
+        <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
+    </tr></td></td></td>
+    </tr>
+  </tbody>
 </table>
 
 <hr>
