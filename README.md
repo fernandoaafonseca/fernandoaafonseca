@@ -100,7 +100,7 @@
 <table>
   <tbody>
     <tr>
-      <td rowspan="2"> <a href="https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp"<b>🤖 WhatsApp automation</b> </td>
+      <td rowspan="2">🤖 <a href="https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp"<b>WhatsApp automation</b> </td>
       <td> <b>💾 Technologies: </b></td>
     </tr>
     <tr>
