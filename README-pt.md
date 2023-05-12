@@ -94,6 +94,26 @@
 
 <hr>
 
+<h2 align="left">🎓 Projetos pessoais:</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2"> <a href="https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp"<b>🤖 Automação do WhatsApp</b> </td>
+      <td> <b>💾 Tecnologias: </b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
+        <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
+        <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
+    </tr></td></td></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 <h2 align="left">👥 Onde me encontrar:</h2>
 
 <table>
