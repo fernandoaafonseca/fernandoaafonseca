@@ -93,6 +93,7 @@
 </table>
 
 <hr>
+<!--
 
 <h2 align="left">🎓 Projetos pessoais:</h2>
 
@@ -113,6 +114,7 @@
 </table>
 
 <hr>
+-->
 
 <h2 align="left">👥 Onde me encontrar:</h2>
 
