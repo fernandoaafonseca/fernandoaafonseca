@@ -94,7 +94,7 @@
 </table>
 
 <hr>
-
+<!--
 <h2 align="left">🎓 Personal projects:</h2>
 
 <table>
@@ -114,6 +114,7 @@
 </table>
 
 <hr>
+-->
 
 <h2 align="left">👥 Ways to reach me:</h2>
 
