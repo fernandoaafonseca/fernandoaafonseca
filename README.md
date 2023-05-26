@@ -24,7 +24,7 @@
   <b><i>Beautiful Soup</i></b>, <b><i>Selenium</i></b> and <b><i>PyAutoGUI</i></b> for <i>web scraping</i> and <i>bots creation</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Flask</i></b>, <b><i>HTML5</i></b>, <b><i>CSS3</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
+  <b><i>Django</i></b>, <b><i>HTML5</i></b>, <b><i>CSS3</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
   <br>
   &emsp;&emsp;
   <b><i>Windows</i></b> and <b><i>VSCode</i></b> as my personal <i>workstation</i>. 
@@ -42,9 +42,12 @@
     <th align="left" height="25" rowspan="2">🖥️ Languages:
     </th>
   </tr>
+
   <td>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a></tr></td></td>
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> </a>
+  </td>
 
   <tr>
     <th align="left" height="25" rowspan="2">📚 Frameworks and libraries:
@@ -53,18 +56,20 @@
 
   <td>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=ffffff" alt="Pandas" height="25" /> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=#092E20" alt="Django" height="25" /> </a>
+    <a href="https://wiki.qt.io/Qt_for_Python/" target="_blank"> <img src="https://img.shields.io/badge/Qt for Python-282C34?logo=qt&logoColor=41CD52" alt="Qt for Python" height="25" /> </a>
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
+  </td>
 
   <tr>
-    <th align="left" height="25" rowspan="2"> 🔨 Others:
+    <th align="left" height="25" rowspan="2"> 👨‍💻 Workstation:
     </th>
   </tr>
+
   <td>
     <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="GitHub" height="25" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-282C34?logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" height="25" /> </a>
     <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows" height="25" /> </a>
-
   </td>
 
   <tr>
@@ -73,10 +78,9 @@
   </tr>
 
   <td>
-    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=ffffff" alt="Flask" height="25" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" /> </a>
-    <a href="https://wiki.qt.io/Qt_for_Python/" target="_blank"> <img src="https://img.shields.io/badge/Qt for Python-282C34?logo=qt&logoColor=41CD52" alt="Qt for Python" height="25" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=f7df1e" alt="JavaScript" height="25" /> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
   </td>
 
   <tr>
@@ -85,11 +89,10 @@
   </tr>
 
   <td>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=f7df1e" alt="JavaScript" height="25" /> </a>
-    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=4ba9c8" alt="NumPy" height="25" /> </a>
-    <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=3F4F75" alt="Plotly" height="25" /> </a>
     <a href="https://www.android.com/" target="_blank"> <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=4ba9c8" alt="NumPy" height="25" /> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=ffffff" alt="Pandas" height="25" /> </a>
+    <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=3F4F75" alt="Plotly" height="25" /> </a>
   </td>
 </table>
 
