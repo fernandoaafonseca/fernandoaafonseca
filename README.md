@@ -150,4 +150,4 @@
 <hr>
 
 <h2 align="left">📊 Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&theme=dracula&layout=compact" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&theme=dracula" alt="Most used languages" />
