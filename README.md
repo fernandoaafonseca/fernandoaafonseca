@@ -153,4 +153,10 @@
 <hr>
 
 <h2 align="left">📊 Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&theme=dracula" alt="Most used languages" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=cobalt" alt="Most used languages" />
+  <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" /></p>
+
+<hr>
+
+<h2 align="left">📂 Repos:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&theme=cobalt" alt="Daily Coding repo" />
