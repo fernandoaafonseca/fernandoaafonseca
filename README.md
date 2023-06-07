@@ -33,6 +33,11 @@
 <p>
   • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Brazilian Portuguese</i></b> and <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b>.
 </p>
+<p>
+  <a href="https://wakatime.com/@fernandoaafonseca">
+    <img src="https://wakatime.com/badge/user/be7ae428-7fb7-4d59-a411-db8fed54d8d1.svg?style=flat" alt="WakaTime" height="25" />
+  </a>
+</p>
 
 <hr>
 
@@ -154,19 +159,20 @@
 
 <h2 align="left">📊 Stats:</h2>
   <p>
-  <a href="https://github.com/fernandoaafonseca?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=cobalt" alt="Most used languages" />
-  </a>
-  <a href="https://www.codewars.com/users/fernandoaafonseca">
-  <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" /></p>
-  </a>
-  <a href="https://wakatime.com/@fernandoaafonseca">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=cobalt" alt="WakaTime stats" />
-  </a>
+    <a href="https://github.com/fernandoaafonseca?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=cobalt" alt="Most used languages" />
+    </a>
+    <a href="https://www.codewars.com/users/fernandoaafonseca">
+      <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" />
+    </a>
+    <a href="https://wakatime.com/@fernandoaafonseca">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=cobalt" alt="WakaTime stats" />
+    </a>
+  </p>
 
 <hr>
 
 <h2 align="left">📂 Repos:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&hide_border=true&theme=cobalt" alt="Daily Coding repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&hide_border=true&theme=cobalt" alt="Daily Coding repo" />
   </a>
