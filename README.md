@@ -160,10 +160,6 @@
   <a href="https://www.codewars.com/users/fernandoaafonseca">
   <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" /></p>
   </a>
-  <a href="https://www.codewars.com/users/fernandoaafonseca">
-  <img src="https://www.codewars.com/users/fernandoaafonseca/badges/large" alt="Codewars badge" />
-  </a>
-  <p>
   <a href="https://wakatime.com/@fernandoaafonseca">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=cobalt" alt="WakaTime stats" />
   </a>
