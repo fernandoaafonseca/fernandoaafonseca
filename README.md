@@ -155,6 +155,7 @@
 <h2 align="left">📊 Stats:</h2>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=cobalt" alt="Most used languages" />
   <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" /></p>
+  <img src="https://www.codewars.com/users/fernandoaafonseca/badges/large" alt="Codewars badge" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=cobalt" alt="WakaTime stats" />
 
 <hr>
