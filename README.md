@@ -165,7 +165,7 @@
   <p>
     </a>
     <a href="https://wakatime.com/@fernandoaafonseca">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=dracula" alt="WakaTime stats" length="100"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&theme=dracula" alt="WakaTime stats" length="100"/>
     </a>
   </p>
   <p>
