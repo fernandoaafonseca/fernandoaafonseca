@@ -161,11 +161,12 @@
   <p>
     <a href="https://github.com/fernandoaafonseca?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages" />
+    </a>
   </p>
   <p>
     </a>
     <a href="https://wakatime.com/@fernandoaafonseca">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&theme=dracula" alt="WakaTime stats" length="100"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&theme=dracula" alt="WakaTime stats" />
     </a>
   </p>
   <p>
