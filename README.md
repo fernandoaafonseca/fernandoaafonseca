@@ -160,13 +160,17 @@
 <h2 align="left">📊 Stats:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=cobalt" alt="Most used languages" />
-    </a>
-    <a href="https://www.codewars.com/users/fernandoaafonseca">
-      <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&top_languages=true&theme=purple_dark" alt="Codewars Stats" height="245" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&theme=dracula" alt="Most used languages" />
+  </p>
+  <p>
     </a>
     <a href="https://wakatime.com/@fernandoaafonseca">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=cobalt" alt="WakaTime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&layout=compact&theme=dracula" alt="WakaTime stats" length="100"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://www.codewars.com/users/fernandoaafonseca">
+      <img src="https://www.codewars.com/users/fernandoaafonseca/badges/small" alt="Codewars Stats" />
     </a>
   </p>
 
@@ -174,5 +178,5 @@
 
 <h2 align="left">📂 Repos:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&hide_border=true&theme=cobalt" alt="Daily Coding repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&hide_border=true&theme=dracula" alt="Daily Coding repo" />
   </a>
