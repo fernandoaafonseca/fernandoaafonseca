@@ -11,32 +11,27 @@
 </p>
 
 <p>
-  • 👨🏻‍💻 Hey! I'm <b>Fernando</b>! I am a self-taught <b><i>Python</i></b> developer exploring <i>automation, web scraping, desktop development</i> and sometimes a bit of <i>web development</i>.
+  • 👨🏻‍💻 Hey! I'm <b>Fernando</b>! I am a self-taught <i>software development</i> student.
 </p>
 
 <p>
-  • 🛠️ The main <i>technologies</i> and <i>tools</i> I'm currently using include:
+  • 🛠️ The main <i>technologies</i> and <i>tools</i> I use include:
   <br>
   &emsp;&emsp;
-  <b><i>PySide6</i></b> and <b><i>PyQt6</i></b> for creating <i>GUIs</i> for <i>desktop applications</i>;
+  <b><i>Python</i></b> and <b><i>JavaScript</i></b> as my main <i>programming languages</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Beautiful Soup</i></b>, <b><i>Selenium</i></b> and <b><i>PyAutoGUI</i></b> for <i>web scraping</i> and <i>bots creation</i>;
+  <b><i>Flask 2</i></b>, <b><i>Django 4</i></b>, <b><i>HTML5</i></b>, <b><i>CSS3</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
   <br>
   &emsp;&emsp;
-  <b><i>Flask</i></b>, <b><i>Django</i></b>, <b><i>HTML5</i></b>, <b><i>CSS3</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
+  <b><i>PySide6</i></b>, <b><i>PyQt6</i></b> and <b><i>Qt Designer</i></b> for <i>desktop applications</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Windows</i></b> and <b><i>VSCode</i></b> as my personal <i>workstation</i>. 
+  <b><i>Windows 11</i></b> and <b><i>VSCode</i></b> as my personal <i>workstation</i>. 
 </p>
 
 <p>
   • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Brazilian Portuguese</i></b> and <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b>.
-</p>
-<p>
-  <a href="https://wakatime.com/@fernandoaafonseca">
-    <img src="https://wakatime.com/badge/user/be7ae428-7fb7-4d59-a411-db8fed54d8d1.svg?style=flat" alt="WakaTime" height="25" />
-  </a>
 </p>
 
 <hr>
@@ -80,22 +75,13 @@
   </td>
 
   <tr>
-    <th align="left" height="25" rowspan="2"> 📝 Learning:
-    </th>
-  </tr>
-
-  <td>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" /> </a>
-    <a href="https://www.].org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
-  </td>
-
-  <tr>
-    <th align="left" height="25" rowspan="2"> 🚀 Future learning interests:
+    <th align="left" height="25" rowspan="2"> 📝 Future learning interests:
     </th>
   </tr>
 
   <td>
     <a href="https://www.android.com/" target="_blank"> <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" /> </a>
+    <a href="https://www.].org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=4ba9c8" alt="NumPy" height="25" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=ffffff" alt="Pandas" height="25" /> </a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=3F4F75" alt="Plotly" height="25" /> </a>
@@ -104,27 +90,6 @@
 </table>
 
 <hr>
-<!--
-<h2 align="left">🎓 Personal projects:</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td rowspan="2">🤖 <a href="https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp"<b>WhatsApp automation</b> </td>
-      <td> <b>💾 Technologies: </b></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
-        <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
-        <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
-    </tr></td></td></td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
--->
 
 <h2 align="left">👥 Ways to reach me:</h2>
 
@@ -167,18 +132,13 @@
   </p>
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&layout=compact&theme=dracula" alt="WakaTime stats" />
-    </a>
-  </p>
-  <p>
-    <a href="https://www.codewars.com/users/fernandoaafonseca">
-      <img src="https://www.codewars.com/users/fernandoaafonseca/badges/small" alt="Codewars Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" />
     </a>
   </p>
 
 <hr>
 
-<h2 align="left">📂 Repos:</h2>
+<h2 align="left">📂 My learning journey repo:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandoaafonseca&repo=daily-coding&show_owner=true&hide_border=true&theme=dracula" alt="Daily Coding repo" />
   </a>
