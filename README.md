@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Brazilian Portuguese</i></b> and <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b>.
+  • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Portuguese</i></b> and <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b>.
 </p>
 
 <hr>
