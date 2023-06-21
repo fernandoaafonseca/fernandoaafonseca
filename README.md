@@ -69,6 +69,7 @@
   </tr>
 
   <td>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" /> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="GitHub" height="25" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-282C34?logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" height="25" /> </a>
     <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows" height="25" /> </a>
