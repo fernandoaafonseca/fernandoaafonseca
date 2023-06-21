@@ -59,7 +59,7 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django" height="25" /> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=808080" alt="Flask" height="25" /> </a>
-    <a href="https://wiki.qt.io/Qt_for_Python/" target="_blank"> <img src="https://img.shields.io/badge/Qt for Python-282C34?logo=qt&logoColor=41CD52" alt="Qt for Python" height="25" /> </a>
+    <a href="https://wiki.qt.io/Qt_for_Python/" target="_blank"> <img src="https://img.shields.io/badge/Qt for Python-282C34?logo=qt&logoColor=41CD52" alt="PySide6 / PyQt6" height="25" /> </a>
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
   </td>
 
