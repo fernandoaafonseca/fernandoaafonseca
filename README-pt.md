@@ -23,7 +23,7 @@
   <b><i>Beautiful Soup</i></b>, <b><i>Selenium</i></b> e <b><i>PyAutoGUI</i></b> para <i>web scraping</i> e <i>criação de bots</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Flask</i></b>, <b><i>HTML5</i></b>, <b><i>CSS3</i></b> e <b><i>Bootstrap</i></b> para desenvolvimento web</i>; 
+  <b><i>Flask</i></b>, <b><i>Django</i></b> e <b><i>Bootstrap</i></b> para desenvolvimento web</i>; 
   <br>
   &emsp;&emsp;
   <b><i>Windows</i></b> e <b><i>VSCode</i></b> como minha <i>estação de trabalho</i>. 
