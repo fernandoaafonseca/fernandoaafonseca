@@ -21,7 +21,7 @@
   <b><i>Python</i></b> and <b><i>JavaScript</i></b> as my main <i>programming languages</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Flask 2</i></b>, <b><i>Django 4</i></b> and <b><i>Bootstrap 5</i></b> for <i>web development</i>; 
+  <b><i>Flask</i></b>, <b><i>Django</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
   <br>
   &emsp;&emsp;
   <b><i>PySide6</i></b>, <b><i>PyQt6</i></b> and <b><i>Qt Designer</i></b> for <i>desktop applications</i>;
