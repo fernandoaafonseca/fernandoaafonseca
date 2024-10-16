@@ -46,6 +46,8 @@
   <td>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=f7df1e" alt="JavaScript" height="25" /> </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank"> <img src="https://img.shields.io/badge/C%23-282C34?logo=sharp&logoColor=5C2D91" alt="C#" height="25" /> </a>
+    <a href="http://6502.org" target="_blank"> <img src="https://img.shields.io/badge/6502 Assembly-282C34?logo=AssemblyScript&logoColor=644240" alt="6502 Assembly" height="25" /> </a>
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
     <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> </a>
   </td>
