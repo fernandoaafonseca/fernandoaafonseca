@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  • 👨🏻‍💻 Hey! I'm <b>Fernando</b>! I am a self-taught <i>software development</i> student.
+  • 👨🏻‍💻 Hey! I'm <b>Fernando</b>! I'm an IT enthusiast and self-taught coder trying to really understand how computers work, from 6502 Assembly to Python. Eclectic musician who used to be a classical guitarist and played a bit with flute and piano. Sometimes I enjoy dabbling in image manipulation with Photoshop and 3D modeling with Blender. A fanatic gamer, from Atari 2600 to modern PC games.
 </p>
 
 <p>
