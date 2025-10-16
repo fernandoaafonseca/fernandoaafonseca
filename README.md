@@ -18,20 +18,24 @@
   • 🛠️ The main <i>technologies</i> and <i>tools</i> I use include:
   <br>
   &emsp;&emsp;
-  <b><i>Python</i></b> and <b><i>JavaScript</i></b> as my main <i>programming languages</i>;
+  <b><i>Python</i></b> <!--and <b><i>JavaScript</i></b>-->as my main <i>programming languages</i>;
   <br>
+  <!--
   &emsp;&emsp;
   <b><i>Flask</i></b>, <b><i>Django</i></b> and <b><i>Bootstrap</i></b> for <i>web development</i>; 
   <br>
+  -->
+  <!--
   &emsp;&emsp;
   <b><i>PySide6</i></b>, <b><i>PyQt6</i></b> and <b><i>Qt Designer</i></b> for <i>desktop applications</i>;
   <br>
+  -->
   &emsp;&emsp;
   <b><i>Linux Mint 22.2 Xfce</i></b> and <b><i>Sublime Text</i></b> as my main personal <i>workstation</i>. 
 </p>
 
 <p>
-  • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Portuguese</i></b> and <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b>.
+  • 🗣 I speak <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> <b><i>Portuguese</i></b> <i>(native)</i>, <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> <b><i>English</i></b> <i>(intermediate)</i> and a little bit of <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15" height="15" alt="Germany" /> <b><i>Deutsch</i></b> <i>(basic)</i>.
 </p>
 
 <hr>
@@ -45,11 +49,12 @@
 
   <td>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4584b6" alt="Python" height="25" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=f7df1e" alt="JavaScript" height="25" /> </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank"> <img src="https://img.shields.io/badge/C%23-282C34?logo=sharp&logoColor=5C2D91" alt="C#" height="25" /> </a>
     <a href="http://6502.org" target="_blank"> <img src="https://img.shields.io/badge/6502 Assembly-282C34?logo=AssemblyScript&logoColor=644240" alt="6502 Assembly" height="25" /> </a>
+    <a href="https://www.lua.org" target="_blank"> <img src="https://img.shields.io/badge/Lua-282C34?logo=lua&logoColor=000080" alt="Lua" height="25" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=f7df1e" alt="JavaScript" height="25" /> </a>
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> </a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> </a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6" alt="CSS3" height="25" /> </a>
   </td>
 
   <tr>
