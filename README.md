@@ -57,12 +57,12 @@
     <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6" alt="CSS3" height="25" /> </a>
   </td>
 
+<!--
   <tr>
     <th align="left" height="25" rowspan="2">📚 Frameworks and libraries:
     </th>
   </tr>
 
-<!--
   <td>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django" height="25" /> </a>
