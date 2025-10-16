@@ -123,7 +123,7 @@
       <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=imessage&logoColor=34DA50" alt="LinkedIn" height="25" /> </a>
       <a href="https://www.reddit.com/user/cosmofigaro" target="_blank"> <img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=FF4500" alt="Reddit" height="25" /> </a>
       <a href="https://steamcommunity.com/id/cosmofigaro/" target="_blank"> <img src="https://img.shields.io/badge/Steam-282C34?logo=steam&logoColor=ffffff" alt="Steam" height="25" /> </a>
-      <a href="https://twitter.com/fernando_aaf" target="_blank"> <img src="https://img.shields.io/badge/x-282C34?logo=twitter&logoColor=000000" alt="X / Twitter" height="25" /> </a>
+      <a href="https://twitter.com/fernando_aaf" target="_blank"> <img src="https://img.shields.io/badge/X &#47 Twitter-282C34?logo=x&logoColor=000000" alt="X" height="25" /> </a>
     </td>
 
   <td valign="top">
