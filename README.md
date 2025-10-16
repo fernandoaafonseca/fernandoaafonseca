@@ -27,7 +27,7 @@
   <b><i>PySide6</i></b>, <b><i>PyQt6</i></b> and <b><i>Qt Designer</i></b> for <i>desktop applications</i>;
   <br>
   &emsp;&emsp;
-  <b><i>Windows 11</i></b> and <b><i>VSCode</i></b> as my personal <i>workstation</i>. 
+  <b><i>Linux Mint 22.2 Xfce</i></b> and <b><i>Sublime Text</i></b> as my main personal <i>workstation</i>. 
 </p>
 
 <p>
@@ -71,10 +71,12 @@
   </tr>
 
   <td>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
+    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.shields.io/badge/Sublime-282C34?logo=sublimetext&logoColor=FF9800" alt="Sublime Text" height="25" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" /> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="GitHub" height="25" /> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-282C34?logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" height="25" /> </a>
-    <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows" height="25" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-282C34?logo=vscodium&logoColor=2F80ED" alt="Visual Studio Code" height="25" /> </a>
+    <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-282C34?logo=pcgamingwiki&logoColor=556DB3" alt="Windows" height="25" /> </a>
   </td>
 
   <tr>
@@ -84,7 +86,6 @@
 
   <td>
     <a href="https://www.android.com/" target="_blank"> <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" height="25" /> </a>
-    <a href="https://www.].org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" height="25" /> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=4ba9c8" alt="NumPy" height="25" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=ffffff" alt="Pandas" height="25" /> </a>
     <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=3F4F75" alt="Plotly" height="25" /> </a>
