@@ -62,6 +62,7 @@
     </th>
   </tr>
 
+<!--
   <td>
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFFFFF" alt="Django" height="25" /> </a>
@@ -69,6 +70,7 @@
     <a href="https://wiki.qt.io/Qt_for_Python/" target="_blank"> <img src="https://img.shields.io/badge/PySide6 / PyQt6-282C34?logo=qt&logoColor=41CD52" alt="PySide6 / PyQt6" height="25" /> </a>
     <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=43B02A" alt="Selenium" height="25" /> </a>
   </td>
+-->
 
   <tr>
     <th align="left" height="25" rowspan="2"> 👨‍💻 Workstation:
@@ -118,10 +120,10 @@
   <tr>
     <td valign="top">
       <a href="https://discord.com/users/400446732401508382" target="_blank"> <img src="https://img.shields.io/badge/Discord-282C34?logo=discord&logoColor=E34F26" alt="Discord" height="25" /> </a>
-      <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="25" /> </a>
+      <a href="https://www.linkedin.com/in/fernandoaafonseca/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=imessage&logoColor=34DA50" alt="LinkedIn" height="25" /> </a>
       <a href="https://www.reddit.com/user/cosmofigaro" target="_blank"> <img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=FF4500" alt="Reddit" height="25" /> </a>
       <a href="https://steamcommunity.com/id/cosmofigaro/" target="_blank"> <img src="https://img.shields.io/badge/Steam-282C34?logo=steam&logoColor=ffffff" alt="Steam" height="25" /> </a>
-      <a href="https://twitter.com/fernando_aaf" target="_blank"> <img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter" height="25" /> </a>
+      <a href="https://twitter.com/fernando_aaf" target="_blank"> <img src="https://img.shields.io/badge/x-282C34?logo=twitter&logoColor=000000" alt="X / Twitter" height="25" /> </a>
     </td>
 
   <td valign="top">
